@@ -1,0 +1,20 @@
+{
+  "name": "opt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "opt.js",
+  "dependencies": {
+    "encoding": "^0.1.12",
+    "ftp": "^0.3.10",
+    "imagemin": "^5.2.2",
+    "imagemin-mozjpeg": "^6.0.0",
+    "imagemin-pngquant": "^5.0.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paweł Łaski <zniwus@gmail.com> (http://rayros.github.io/)",
+  "license": "ISC"
+}
